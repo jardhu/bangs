@@ -97221,6 +97221,14 @@
     "sc": "Games (specific)"
   },
   {
+    "s": "Vulkan API Reference",
+    "d": "registry.khronos.org/vulkan",
+    "t": "vulkan",
+    "u": "https://registry.khronos.org/vulkan/specs/latest/man/html/{{{s}}}.html",
+    "c": "Tech",
+    "sc": "Libraries/Frameworks"
+  },
+  {
     "s": "Vulgum Techus",
     "d": "www.vulgumtechus.com",
     "t": "vt",
